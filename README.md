@@ -9,7 +9,7 @@ Important Considerations:
 The solution leverages the following: 
 - Cisco Codec EQ, Codec Pro, Codec Pro G2
 - Cisco Table or Ceiling Microphone Pros (up to 8)
-- Cisco Room Vision PTZ / Cisco PTZ4K Cameras
+- Cisco Quad Cameras, Room Vision PTZs or Cisco PTZ4K Cameras
 - Cisco Catalyst 9K Series Switches (**Minimum Switch Software: IOS XE 17.15**)
 - Third Party HDMI Distribution Amplifiers
 
